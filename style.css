@@ -1,0 +1,68 @@
+.bg-blue {
+	background-color: blue;
+}
+
+.tc {
+	text-align: center;
+}
+
+.pa3 {
+	padding: 1rem;
+}
+
+.mw7 {
+	max-width: 700px;
+}
+
+.f1 {
+	font-size: 2rem;
+}
+
+.f2 {
+	font-size: 1.5rem;
+}
+
+.lh-copy {
+	line-height: 1.6;
+}
+
+.measure {
+	width: 100%;
+}
+
+.bg-black-10 {
+	background-color: rgba(0, 0, 0, 0.1);
+}
+
+.f6 {
+	font-size: 0.875rem;
+}
+
+.flex {
+	display: flex;
+	flex-wrap: wrap;
+}
+
+.w-50 {
+	width: 50%;
+}
+
+.pa3 {
+	padding: 1rem;
+}
+
+.f3 {
+	font-size: 1.125rem;
+}
+
+.list {
+	list-style-type: none;
+}
+
+.pl0 {
+	padding-left: 0;
+}
+
+.mb2 {
+	margin-bottom: 0.5rem;
+}
